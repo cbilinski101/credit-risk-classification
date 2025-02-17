@@ -1,8 +1,8 @@
 # Loan Risk Prediction Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-orange)](https://scikit-learn.org/stable/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
 ## **Overview of the Analysis**
 
